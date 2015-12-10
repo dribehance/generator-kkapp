@@ -85,6 +85,7 @@ var MobileangularuiGenerator = yeoman.generators.Base.extend({
     this.copy('_config_app.js','src/js/config.js');
     // less
     this.copy('_variables.less','src/less/variables.less');
+    this.copy('_common.less','src/less/common.less');
     this.copy('_navbar.less','src/less/navbar.less');
     // dribehance
     // this.write('src/less/variables.less', '');
