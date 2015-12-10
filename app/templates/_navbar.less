@@ -16,9 +16,18 @@
 }
 
 .navbar-brand {
-    background-color: @brand-primary;
-    color: white;
+    // background-color: @brand-primary;
+    // color: white;
 }
 .navbar-absolute-top .btn {
 	color: white;
+}
+.navbar-absolute-bottom .btn-navbar {
+	line-height: normal;
+}
+.navbar-absolute-bottom .btn-navbar {
+	color: @gray-light;
+	&.active{
+		color: @brand-primary;
+	}
 }
