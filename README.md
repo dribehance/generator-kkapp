@@ -1,0 +1,7 @@
+
+## Install
+
+```bash
+npm link
+```
+
