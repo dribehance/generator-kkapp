@@ -49,7 +49,8 @@ config.js
 gulpfile.js
 package.json
 ```
-集成的依赖库
+###集成的依赖库
+
 ng-flow
 ```
 repository:https://github.com/dribehance/ng-flow.git
