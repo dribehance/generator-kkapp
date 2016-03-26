@@ -4,7 +4,7 @@
 ```bash
 npm link
 ```
-允许```yo```读取本地而不是npm上的
+允许```yo```读取本地而不是npm上的,参考```http://yeoman.io/authoring/index.html```
 ###step2
 ```bash
 yo kkapp
