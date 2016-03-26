@@ -50,11 +50,34 @@ gulpfile.js
 package.json
 ```
 集成的依赖库
-ng-flow```repository:https://github.com/dribehance/ng-flow.git```
-angular-timer```repository:https://github.com/dribehance/angular-timer.git```
-d3,pie-chart```repository:https://github.com/dribehance/pie-chart.git ```
-angular-localstorage```repository:https://github.com/dribehance/angular-local-storage.git ```
-owl.carousel```repository:https://github.com/dribehance/OwlCarousel.git ```
-china-identity-card```repository:https://github.com/dribehance/china-identity-card.git```
-date-polifill```repository:https://github.com/dribehance/date-polyfill.git ```
+ng-flow
+```
+repository:https://github.com/dribehance/ng-flow.git
+```
+
+angular-timer
+```
+repository:https://github.com/dribehance/angular-timer.git
+```
+
+d3,pie-chart
+```
+repository:https://github.com/dribehance/pie-chart.git 
+```
+angular-localstorage
+```
+repository:https://github.com/dribehance/angular-local-storage.git
+```
+owl.carousel
+```
+repository:https://github.com/dribehance/OwlCarousel.git
+```
+china-identity-card
+```
+repository:https://github.com/dribehance/china-identity-card.git
+```
+date-polifill
+```
+repository:https://github.com/dribehance/date-polyfill.git
+```
 
